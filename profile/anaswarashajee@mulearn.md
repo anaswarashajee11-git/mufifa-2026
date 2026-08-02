@@ -114,6 +114,6 @@ The final against France was unforgettable, and watching Lionel Messi lift the t
 <!-- Paste your μLearn embed link below; get it from Discord using /get-embed-link -->
 
 <img
-    src="https://mulearn.org/embed/rank/yourname@mulearn"
+    src="https://mulearn.org/embed/rank/anaswarashajee@mulearn"
     width="400px">
 </img>
